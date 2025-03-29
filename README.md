@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on DatabaseInc, a Database Management Software
+💻 Currently learning Kotlin for Android app development to enhance my skills in the programming world.
 
 
 ## 🌐 Socials:
