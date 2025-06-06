@@ -1,5 +1,5 @@
 # 💫 About Me:
-Utilizing AI and Machine Learning algorithms to detect SQLi (SQL Injections)
+Leveraging AI and Machine Learning algorithms to detect SQLi (SQL Injections)
 
 
 ## 🌐 Socials:
